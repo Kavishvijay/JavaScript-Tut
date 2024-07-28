@@ -21,7 +21,7 @@ console.log(inty);
 
 //"Notes"
 //"33" = 33
-//"33ab" = NAN
+//"33ab" = NAN  not a number
 //null= 0
 // undefined = NAN
 //boolean true = 1: false = 0
