@@ -21,7 +21,7 @@ obj1.rollno = "PCE21CR007"
 
 //console.log(obj1);
 
-obj1.lastname = "Vijay"
+obj1.lastname = "Vijayvargiya"
 
 
  obj1.greetings = function(){console.log("Hello!boyee");}
